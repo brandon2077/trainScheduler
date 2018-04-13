@@ -1,0 +1,12 @@
+.body {
+  background-image: url("../images/trainStation.jpg");
+}
+
+.jumbotron {
+  color: grey;
+  background-color: black;
+}
+
+.h1 {
+  font-family: 'Gugi';
+}
